@@ -1,0 +1,4 @@
+qrcode[pil]
+requests
+pyzbar
+Pillow
