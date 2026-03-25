@@ -1,4 +1,5 @@
-qrcode[pil]
 requests
+pyTelegramBotAPI
+qrcode[pil]
 pyzbar
 Pillow
